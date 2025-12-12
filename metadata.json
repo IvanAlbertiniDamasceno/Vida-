@@ -1,0 +1,7 @@
+{
+  "name": "VIDA +",
+  "description": "Um aplicativo de autocuidado para monitoramento de hábitos saudáveis, equilíbrio mental e físico.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
